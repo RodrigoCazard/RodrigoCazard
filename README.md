@@ -1,4 +1,4 @@
-<img src='[https://ibb.co/gdnzzdN](https://i.ibb.co/8bh66bq/Purple-Pink-Modern-Programmer-Linked-In-Banner-1.png)' width="100%"/>
+<img src='https://i.ibb.co/8bh66bq/Purple-Pink-Modern-Programmer-Linked-In-Banner-1.png' width="100%"/>
 
 <h1 align="center">Hey 👋 What's up?</h1>
 
