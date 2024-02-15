@@ -1,5 +1,4 @@
-<img src='
-https://ibb.co/gdnzzdN'/>
+<img src='https://ibb.co/gdnzzdN' width="100%"/>
 
 <h1 align="center">Hey 👋 What's up?</h1>
 
