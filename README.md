@@ -21,7 +21,7 @@
 ###
 
 <p>
-     <img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnlkOGJhZmkyc2Z3cjlrYTcyajM5cGU2eTBpOGE1aXdlZGMwZ3JyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" alt="Coding gif" />
+     <img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnlkOGJhZmkyc2Z3cjlrYTcyajM5cGU2eTBpOGE1aXdlZGMwZ3JyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" alt="Coding gif" />
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: rodrigocazard@gmail.com<br/><br/>
