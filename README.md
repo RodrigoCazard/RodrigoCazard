@@ -16,12 +16,23 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h1 align="left">About me</h2>
 
 ###
 
-<p align="left">✌️   <img align="right" height="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnlkOGJhZmkyc2Z3cjlrYTcyajM5cGU2eTBpOGE1aXdlZGMwZ3JyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"  />Enjoy to do programming and sharing knowledge<br><br>❤️   Love to writing code and learning new features<br><br>📧   Reach me anytime: rodrigocazard@gmail.com<br><br>💬   Ask me about anything here</p>
+<p>
+ <img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnlkOGJhZmkyc2Z3cjlrYTcyajM5cGU2eTBpOGE1aXdlZGMwZ3JyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" alt="Coding gif" />
+  
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime: rodrigocazard@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/RodrigoCazard)
 
+</p>
+
+<br/>
+<br/>
+<br/>
 
 
 
