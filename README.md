@@ -21,12 +21,9 @@
 ###
 
 <p align="left">✌️   Enjoy to do programming and sharing knowledge<br><br>❤️   Love to writing code and learning new features<br><br>📧   Reach me anytime: rodrigocazard@gmail.com<br><br>💬   Ask me about anything here</p>
-
-###
-
 <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnlkOGJhZmkyc2Z3cjlrYTcyajM5cGU2eTBpOGE1aXdlZGMwZ3JyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"  />
 
-###
+
 
 <h1 align="left">Learned/Using</h1>
 
