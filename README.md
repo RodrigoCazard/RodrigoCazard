@@ -1,10 +1,8 @@
 <img src='https://i.ibb.co/8bh66bq/Purple-Pink-Modern-Programmer-Linked-In-Banner-1.png' width="100%"/>
 
-<h1 align="center">Hey 👋 What's up?</h1>
 
-###
 
-<p align="center">My name is Rodrigo, and I'm a computer science teacher with a focus on frontend development. I'm based in Uruguay.</p>
+<p align="center"> I'm a computer science teacher with a focus on frontend development. I'm based in Uruguay.</p>
 
 ###
 
