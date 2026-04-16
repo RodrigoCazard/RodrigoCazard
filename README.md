@@ -124,12 +124,16 @@
 
 <h1 align="left">Basic knowledge</h1>
 
+<h1 align="left">Basic knowledge</h1>
+
 <div align="left">
   <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" />
   <img width="12" />
   <img src="https://img.shields.io/badge/GDScript-478CBF?logo=godotengine&logoColor=white&style=for-the-badge" height="40" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="40" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white&style=for-the-badge" height="40" />
   <img width="12" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" />
 </div>
